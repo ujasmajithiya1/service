@@ -1,7 +1,11 @@
-# final_app
+# Service Mentor
 
-A new Flutter application.
-
+This is flutter app for car service & maintainace. 
+About this app: 
+User can login using email & password. Basic level of email and password validation is done in this app. 
+There different section of service are shown on the home screen and there are different types of those services. user can add the service to the cart. All the email, passowrd and cart database is stored in the Firebase. 
+The ui of app is taken from dribble.com and some ui elements are from a food delivery app which I remove in the future. 
+the project is not yet complete it does not have payment system and service center app.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
